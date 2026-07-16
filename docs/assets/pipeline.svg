@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title description">
+  <title id="title">RehabMotion AI analysis pipeline</title>
+  <desc id="description">Seven stages connect a video upload to pose estimation, data quality, kinematics, repetition detection, dashboard results and exports.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1">
+      <stop offset="0" stop-color="#10221d"/>
+      <stop offset="1" stop-color="#18352d"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#07110e" flood-opacity="0.35"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#6bd3b0"/>
+    </marker>
+    <style>
+      .label { font: 700 15px Arial, sans-serif; fill: #f4fbf8; text-anchor: middle; }
+      .detail { font: 12px Arial, sans-serif; fill: #b8d1c8; text-anchor: middle; }
+      .number { font: 700 12px Arial, sans-serif; fill: #10221d; text-anchor: middle; dominant-baseline: middle; }
+      .node { fill: #203f36; stroke: #3f7866; stroke-width: 1.5; }
+      .flow { stroke: #6bd3b0; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1200" height="250" rx="24" fill="url(#background)"/>
+  <text x="40" y="38" style="font:700 20px Arial,sans-serif;fill:#8be0c2">ANALYSIS PIPELINE</text>
+  <text x="1160" y="38" text-anchor="end" style="font:12px Arial,sans-serif;fill:#8ca99f">LOCAL, AUDITABLE, VISIBILITY-AWARE</text>
+
+  <g class="flow">
+    <path d="M170 137 H193"/><path d="M338 137 H361"/><path d="M506 137 H529"/>
+    <path d="M674 137 H697"/><path d="M842 137 H865"/><path d="M1010 137 H1033"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <g transform="translate(25 83)">
+      <rect class="node" width="145" height="108" rx="16"/>
+      <circle cx="25" cy="25" r="14" fill="#6bd3b0"/><text class="number" x="25" y="25">1</text>
+      <text class="label" x="72.5" y="58">Video</text><text class="detail" x="72.5" y="80">Upload + metadata</text>
+    </g>
+    <g transform="translate(193 83)">
+      <rect class="node" width="145" height="108" rx="16"/>
+      <circle cx="25" cy="25" r="14" fill="#6bd3b0"/><text class="number" x="25" y="25">2</text>
+      <text class="label" x="72.5" y="58">Pose</text><text class="detail" x="72.5" y="80">33 landmarks</text>
+    </g>
+    <g transform="translate(361 83)">
+      <rect class="node" width="145" height="108" rx="16"/>
+      <circle cx="25" cy="25" r="14" fill="#6bd3b0"/><text class="number" x="25" y="25">3</text>
+      <text class="label" x="72.5" y="58">Quality</text><text class="detail" x="72.5" y="80">Visibility gates</text>
+    </g>
+    <g transform="translate(529 83)">
+      <rect class="node" width="145" height="108" rx="16"/>
+      <circle cx="25" cy="25" r="14" fill="#6bd3b0"/><text class="number" x="25" y="25">4</text>
+      <text class="label" x="72.5" y="58">Kinematics</text><text class="detail" x="72.5" y="80">Angles + smoothing</text>
+    </g>
+    <g transform="translate(697 83)">
+      <rect class="node" width="145" height="108" rx="16"/>
+      <circle cx="25" cy="25" r="14" fill="#6bd3b0"/><text class="number" x="25" y="25">5</text>
+      <text class="label" x="72.5" y="58">Repetitions</text><text class="detail" x="72.5" y="80">Adaptive cycles</text>
+    </g>
+    <g transform="translate(865 83)">
+      <rect class="node" width="145" height="108" rx="16"/>
+      <circle cx="25" cy="25" r="14" fill="#6bd3b0"/><text class="number" x="25" y="25">6</text>
+      <text class="label" x="72.5" y="58">Dashboard</text><text class="detail" x="72.5" y="80">Metrics + curves</text>
+    </g>
+    <g transform="translate(1033 83)">
+      <rect class="node" width="142" height="108" rx="16" stroke="#e28b44"/>
+      <circle cx="25" cy="25" r="14" fill="#e28b44"/><text class="number" x="25" y="25">7</text>
+      <text class="label" x="71" y="58">Exports</text><text class="detail" x="71" y="80">CSV + PDF</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,2301 @@
+segment_id,recording_group,y,is_seizure,class_name,seizure_probability,prediction
+X15.V1.924,recording_924,1,1,Crise (ictal),0.9996296296296298,1
+X20.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.874,recording_874,1,1,Crise (ictal),0.9899259259259262,1
+X7.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.13243884220354804,0
+X9.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.134,recording_134,1,1,Crise (ictal),0.9278705738705744,1
+X2.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X21.V1.134,recording_134,1,1,Crise (ictal),0.9378491747903513,1
+X10.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.007851851851851853,0
+X3.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.874,recording_874,1,1,Crise (ictal),0.9931640211640211,1
+X13.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.029055759055759054,0
+X20.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.11618803418803421,0
+X3.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.0960529100529101,0
+X11.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.9690417526279599,1
+X11.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X23.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X15.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.3757572057572054,0
+X10.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X15.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X2.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.002962962962962963,0
+X8.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.35181984044052966,0
+X19.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X12.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X17.V1.164,recording_164,1,1,Crise (ictal),1.0,1
+X4.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X5.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.030296296296296297,0
+X14.V1.574,recording_574,1,1,Crise (ictal),0.8746582824582826,1
+X15.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X16.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X15.V1.454,recording_454,1,1,Crise (ictal),1.0,1
+X9.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.02162962962962963,0
+X15.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X13.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.006,0
+X4.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.002666666666666667,0
+X8.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0022222222222222222,0
+X4.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.00488888888888889,0
+X6.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X11.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.594,recording_594,1,1,Crise (ictal),0.8062751322751324,1
+X8.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9325496420790542,1
+X3.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X10.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9818917378917379,1
+X1.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.00488888888888889,0
+X21.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X18.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X5.V1.244,recording_244,1,1,Crise (ictal),0.9892847005562555,1
+X20.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.268267288267288,0
+X4.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.13027513227513227,0
+X8.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.08558730158730163,0
+X9.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.02180952380952381,0
+X16.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.37217338717338694,0
+X14.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X4.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.005925925925925926,0
+X7.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.007555555555555555,0
+X4.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X6.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X19.V1.517,recording_517,1,1,Crise (ictal),0.9966666666666667,1
+X23.V1.164,recording_164,1,1,Crise (ictal),1.0,1
+X13.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X7.V1.594,recording_594,1,1,Crise (ictal),0.9837118437118437,1
+X11.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.08764835164835168,0
+X16.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X3.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X22.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.9354066151713215,1
+X5.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.6028161693480343,1
+X23.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X11.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X22.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X21.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X12.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.21010774410774388,0
+X10.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.04151948051948052,0
+X15.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.234,recording_234,1,1,Crise (ictal),0.9996296296296298,1
+X13.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X17.V1.594,recording_594,1,1,Crise (ictal),0.9665925925925926,1
+X21.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X22.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X11.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.016854700854700855,0
+X20.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X11.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.9006681619750119,1
+X16.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.008000000000000002,0
+X5.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X18.V1.634,recording_634,1,1,Crise (ictal),0.920468178994495,1
+X8.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.33709497909497893,0
+X12.V1.874,recording_874,1,1,Crise (ictal),0.999948717948718,1
+X18.V1.617,recording_617,1,1,Crise (ictal),0.996,1
+X13.V1.924,recording_924,1,1,Crise (ictal),0.9933732193732195,1
+X13.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.002666666666666667,0
+X23.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X21.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0026455026455026454,0
+X5.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X18.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X18.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X5.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.07247715247715249,0
+X7.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.24946412846412822,0
+X19.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X15.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X5.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.8729386909386918,1
+X3.V1.574,recording_574,1,1,Crise (ictal),1.0,1
+X19.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.040740740740740744,0
+X7.V1.924,recording_924,1,1,Crise (ictal),0.9982962962962965,1
+X23.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.164,recording_164,1,1,Crise (ictal),0.9996296296296298,1
+X2.V1.134,recording_134,1,1,Crise (ictal),0.8486637458402169,1
+X8.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X16.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.09329914529914533,0
+X17.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.016888888888888887,0
+X3.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.07864550264550266,0
+X1.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X16.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X22.V1.164,recording_164,1,1,Crise (ictal),0.9998666666666668,1
+X3.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X11.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X2.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.126137908874751,0
+X8.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X8.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X15.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.00988888888888889,0
+X14.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.005185185185185184,0
+X13.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X8.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.005333333333333334,0
+X19.V1.144,recording_144,1,1,Crise (ictal),0.9836695156695161,1
+X13.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.144,recording_144,1,1,Crise (ictal),0.993925925925926,1
+X9.V1.244,recording_244,1,1,Crise (ictal),0.9996296296296298,1
+X18.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.234,recording_234,1,1,Crise (ictal),0.9993333333333334,1
+X6.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.849640307405014,1
+X4.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X23.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X22.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X15.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.5296910866910866,1
+X9.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.013534391534391534,0
+X10.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.634,recording_634,1,1,Crise (ictal),0.825032396797103,1
+X8.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.02434920634920635,0
+X19.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X10.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.007111111111111111,0
+X8.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0019047619047619048,0
+X1.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X23.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X2.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.008222222222222223,0
+X10.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.007555555555555555,0
+X6.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.454,recording_454,1,1,Crise (ictal),0.9957435897435899,1
+X23.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.004571428571428572,0
+X17.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X10.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X21.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.0,0
+X21.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X17.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X8.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X6.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X10.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X21.V1.617,recording_617,1,1,Crise (ictal),0.9990769230769231,1
+X16.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0,0
+X8.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.7472617970265034,1
+X20.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.028052910052910055,0
+X17.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.017666666666666667,0
+X17.V1.924,recording_924,1,1,Crise (ictal),0.9800000000000004,1
+X8.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X10.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X1.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X1.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X10.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.13616687016687012,0
+X3.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.144,recording_144,1,1,Crise (ictal),0.9325986394557827,1
+X11.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X15.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.8952779812779814,1
+X14.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X10.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.874,recording_874,1,1,Crise (ictal),0.9992820512820513,1
+X10.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X18.V1.454,recording_454,1,1,Crise (ictal),1.0,1
+X21.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.000149812734082397,0
+X14.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X22.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.1447787397787397,0
+X21.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X7.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.00488888888888889,0
+X9.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X11.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.0,0
+X2.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X5.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X16.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.059851851851851864,0
+X4.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0,0
+X18.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.000149812734082397,0
+X10.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.024349206349206346,0
+X7.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.30811340869405357,0
+X4.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.24214285714285694,0
+X18.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.022518518518518514,0
+X18.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.01562962962962963,0
+X3.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X16.V1.634,recording_634,1,1,Crise (ictal),0.8381101338748399,1
+X6.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.4317025229672286,0
+X2.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X8.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X13.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.0,0
+X22.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.234,recording_234,1,1,Crise (ictal),0.9993333333333334,1
+X9.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.02441025641025641,0
+X11.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X10.V1.244,recording_244,1,1,Crise (ictal),0.9993333333333334,1
+X22.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X6.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X21.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X4.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X3.V1.594,recording_594,1,1,Crise (ictal),0.9986324786324786,1
+X9.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X7.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X2.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.164,recording_164,1,1,Crise (ictal),0.9951851851851852,1
+X20.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X2.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.04972242572242574,0
+X4.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X23.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.009535353535353534,0
+X5.V1.594,recording_594,1,1,Crise (ictal),0.9993333333333334,1
+X18.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.617,recording_617,1,1,Crise (ictal),0.9993333333333334,1
+X3.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.4193333333333329,0
+X10.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X5.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.014882539682539683,0
+X23.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X13.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.02985185185185186,0
+X9.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.0,0
+X15.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X10.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X2.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X19.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X1.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.0,0
+X23.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X9.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X6.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.944,recording_944,1,1,Crise (ictal),0.9966666666666667,1
+X21.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X13.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.0035555555555555553,0
+X22.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.0,0
+X22.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X11.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X7.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.5034246494246492,1
+X2.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.014238095238095237,0
+X7.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X13.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X20.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.13340740740740736,0
+X19.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.010201058201058202,0
+X18.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0753789173789174,0
+X1.V1.574,recording_574,1,1,Crise (ictal),1.0,1
+X16.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X14.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.8629001656460037,1
+X23.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X19.V1.164,recording_164,1,1,Crise (ictal),1.0,1
+X4.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.1563857253857253,0
+X5.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X16.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.011682539682539681,0
+X4.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.25493217893217873,0
+X6.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.15366171839856047,0
+X15.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0038888888888888883,0
+X3.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X10.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.1028458393458394,0
+X14.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.27554593554593526,0
+X6.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.000149812734082397,0
+X8.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X21.V1.244,recording_244,1,1,Crise (ictal),0.9988888888888887,1
+X10.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.12825032375032377,0
+X21.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.012444444444444445,0
+X9.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0019047619047619048,0
+X20.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.454,recording_454,1,1,Crise (ictal),0.9991372549019608,1
+X1.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.02851851851851852,0
+X2.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X21.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.007111111111111111,0
+X4.V1.594,recording_594,1,1,Crise (ictal),0.9960740740740742,1
+X17.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.01622222222222222,0
+X14.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X10.V1.634,recording_634,1,1,Crise (ictal),0.8238113146113151,1
+X19.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X21.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.00488888888888889,0
+X6.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.014555555555555558,0
+X17.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.8707750245397307,1
+X8.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.007111111111111111,0
+X12.V1.664,recording_664,1,1,Crise (ictal),0.9993333333333334,1
+X1.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.13797883597883598,0
+X5.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.9351920329899044,1
+X7.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X8.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.144,recording_144,1,1,Crise (ictal),0.9714050611697672,1
+X23.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.005333333333333334,0
+X6.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.008000000000000002,0
+X10.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9244634865192143,1
+X5.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X4.V1.144,recording_144,1,1,Crise (ictal),0.9605825133472198,1
+X4.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X23.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.036339586339586345,0
+X2.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.144,recording_144,1,1,Crise (ictal),0.937474747474748,1
+X22.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X5.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X21.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X5.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.057927716727716724,0
+X12.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.00488888888888889,0
+X6.V1.244,recording_244,1,1,Crise (ictal),0.9982222222222221,1
+X18.V1.574,recording_574,1,1,Crise (ictal),0.9976296296296296,1
+X21.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9866243386243386,1
+X4.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.454,recording_454,1,1,Crise (ictal),1.0,1
+X23.V1.874,recording_874,1,1,Crise (ictal),0.9818967504230665,1
+X21.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.04551322751322751,0
+X5.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.144,recording_144,1,1,Crise (ictal),0.9881904761904762,1
+X19.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.016074074074074074,0
+X5.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.0,0
+X11.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.0022222222222222222,0
+X10.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.00488888888888889,0
+X16.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.0,0
+X4.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.0019047619047619048,0
+X9.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.4424804990667055,0
+X16.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X8.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X15.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.594,recording_594,1,1,Crise (ictal),0.9724705882352942,1
+X3.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X13.V1.944,recording_944,1,1,Crise (ictal),1.0,1
+X6.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.924,recording_924,1,1,Crise (ictal),0.9989629629629629,1
+X7.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X22.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X15.V1.164,recording_164,1,1,Crise (ictal),0.994888888888889,1
+X18.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.517,recording_517,1,1,Crise (ictal),1.0,1
+X17.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X15.V1.244,recording_244,1,1,Crise (ictal),0.9964102564102564,1
+X9.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X15.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X16.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.022423280423280425,0
+X3.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X8.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.00488888888888889,0
+X20.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.006031746031746032,0
+X14.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.012148148148148146,0
+X18.V1.164,recording_164,1,1,Crise (ictal),0.9966666666666667,1
+X17.V1.244,recording_244,1,1,Crise (ictal),1.0,1
+X13.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.04866666666666667,0
+X17.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.23196825396825374,0
+X21.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X3.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.052117364117364125,0
+X13.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X18.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X6.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X10.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X5.V1.517,recording_517,1,1,Crise (ictal),0.9998039215686274,1
+X20.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.0,0
+X16.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X4.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.005333333333333334,0
+X4.V1.244,recording_244,1,1,Crise (ictal),0.9932592592592592,1
+X11.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.018666666666666665,0
+X9.V1.164,recording_164,1,1,Crise (ictal),1.0,1
+X18.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X6.V1.517,recording_517,1,1,Crise (ictal),0.996,1
+X20.V1.594,recording_594,1,1,Crise (ictal),0.9908148148148147,1
+X17.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X17.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X7.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.9577192982456144,1
+X16.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X13.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.004276796861066524,0
+X3.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.000149812734082397,0
+X16.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.03755555555555555,0
+X14.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0033333333333333335,0
+X9.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.010222222222222221,0
+X9.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.194697430283637,0
+X16.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.0044444444444444444,0
+X8.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.4824030784030785,0
+X14.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.00488888888888889,0
+X22.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.004333333333333333,0
+X5.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X3.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.007111111111111111,0
+X17.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9591105043820598,1
+X18.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.012,0
+X1.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.7065413105413112,1
+X12.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X22.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.9500611458258519,1
+X1.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X6.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.016888888888888887,0
+X6.V1.574,recording_574,1,1,Crise (ictal),1.0,1
+X17.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X8.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X23.V1.594,recording_594,1,1,Crise (ictal),0.9878518518518519,1
+X21.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.005555555555555555,0
+X13.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X6.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X1.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X23.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.009222222222222222,0
+X15.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X16.V1.924,recording_924,1,1,Crise (ictal),0.9988888888888887,1
+X20.V1.517,recording_517,1,1,Crise (ictal),0.9966666666666667,1
+X6.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0687141566653762,0
+X22.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X23.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.008148148148148147,0
+X19.V1.924,recording_924,1,1,Crise (ictal),0.929037037037037,1
+X16.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.944,recording_944,1,1,Crise (ictal),0.9966666666666667,1
+X14.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.015407407407407406,0
+X12.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X22.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.0,0
+X19.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.043757575757575766,0
+X6.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9271591371591373,1
+X16.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.02962962962962963,0
+X21.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X22.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.454,recording_454,1,1,Crise (ictal),1.0,1
+X10.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X7.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.2458031598031596,0
+X8.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X15.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X3.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0,0
+X10.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X15.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.013333333333333334,0
+X11.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.018847522847522846,0
+X4.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.3619138639138637,0
+X11.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0022222222222222222,0
+X2.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.011888888888888888,0
+X13.V1.634,recording_634,1,1,Crise (ictal),0.9123940721587787,1
+X13.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X1.V1.594,recording_594,1,1,Crise (ictal),0.9895555555555556,1
+X21.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.0,0
+X2.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X4.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X2.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.8624551222198286,1
+X15.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.574,recording_574,1,1,Crise (ictal),1.0,1
+X1.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.09839005439005441,0
+X18.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.08492063492063497,0
+X16.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X4.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.0,0
+X23.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.01771428571428571,0
+X3.V1.164,recording_164,1,1,Crise (ictal),0.9978518518518519,1
+X18.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.019373219373219376,0
+X3.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X8.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X9.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X8.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.574,recording_574,1,1,Crise (ictal),0.9873594771241831,1
+X12.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.39781394908550394,0
+X1.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X10.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.21603453077137266,0
+X23.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.035717893217893225,0
+X3.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.23780315980315953,0
+X8.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X15.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X9.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.12454545454545456,0
+X10.V1.944,recording_944,1,1,Crise (ictal),1.0,1
+X2.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X14.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.011682539682539683,0
+X2.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.007407407407407406,0
+X6.V1.594,recording_594,1,1,Crise (ictal),0.9993333333333334,1
+X21.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.18871957671957654,0
+X21.V1.234,recording_234,1,1,Crise (ictal),0.9966666666666667,1
+X22.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0,0
+X9.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X16.V1.164,recording_164,1,1,Crise (ictal),0.9989629629629629,1
+X9.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X10.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X3.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.007111111111111111,0
+X16.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X22.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.029474229474229473,0
+X22.V1.574,recording_574,1,1,Crise (ictal),0.9913333333333334,1
+X13.V1.164,recording_164,1,1,Crise (ictal),1.0,1
+X4.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X20.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.007555555555555555,0
+X22.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0033333333333333335,0
+X12.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.24230075806546372,0
+X19.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.454,recording_454,1,1,Crise (ictal),0.9896882376882379,1
+X6.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X7.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X2.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X19.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X1.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.5624775964775967,1
+X9.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X22.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X6.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.3860517080029273,0
+X22.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.005333333333333334,0
+X7.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X9.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0022222222222222222,0
+X23.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.00977777777777778,0
+X3.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.949851851851852,1
+X11.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X23.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.010793650793650793,0
+X10.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.043682539682539684,0
+X21.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.26481411232096147,0
+X4.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.00488888888888889,0
+X16.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.244,recording_244,1,1,Crise (ictal),1.0,1
+X6.V1.164,recording_164,1,1,Crise (ictal),1.0,1
+X3.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X9.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.025777777777777774,0
+X12.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X8.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.009333333333333332,0
+X17.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.017666666666666667,0
+X10.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.944,recording_944,1,1,Crise (ictal),1.0,1
+X12.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X20.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X10.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X5.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X2.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.012444444444444445,0
+X10.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X2.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X11.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.026349206349206348,0
+X12.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.025623280423280423,0
+X9.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.035277981277981284,0
+X14.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X15.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X3.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.02096296296296296,0
+X21.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.216,recording_216,1,1,Crise (ictal),0.9993333333333334,1
+X14.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.017238095238095236,0
+X3.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X15.V1.216,recording_216,1,1,Crise (ictal),0.9962962962962963,1
+X19.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.04322222222222223,0
+X21.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.011682539682539683,0
+X17.V1.234,recording_234,1,1,Crise (ictal),0.9882621082621084,1
+X22.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X17.V1.144,recording_144,1,1,Crise (ictal),0.9644638542285602,1
+X20.V1.144,recording_144,1,1,Crise (ictal),0.9888949357520791,1
+X1.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.11486230481352436,0
+X20.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.00488888888888889,0
+X10.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.574,recording_574,1,1,Crise (ictal),0.9935555555555557,1
+X8.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X20.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.0022222222222222222,0
+X6.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X23.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X15.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.0,0
+X18.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.06775132275132276,0
+X4.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X12.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.008444444444444444,0
+X15.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X18.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X23.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X18.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0013333333333333335,0
+X14.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.04251851851851852,0
+X17.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.10823280423280429,0
+X14.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X1.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X6.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X14.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X3.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.031185185185185194,0
+X10.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.0022222222222222222,0
+X23.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X1.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X6.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.7185291962939028,1
+X15.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X10.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.028423280423280423,0
+X7.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.144,recording_144,1,1,Crise (ictal),0.9483616749263813,1
+X18.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X3.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.022074074074074072,0
+X8.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X23.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.264,recording_264,1,1,Crise (ictal),0.9993333333333334,1
+X21.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X19.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.11431746031746033,0
+X2.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.026851851851851856,0
+X11.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X2.V1.594,recording_594,1,1,Crise (ictal),0.9993333333333334,1
+X8.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X16.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.0,0
+X9.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X15.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X21.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.8470795878176961,1
+X2.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.051555555555555556,0
+X22.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X1.V1.164,recording_164,1,1,Crise (ictal),0.9996296296296298,1
+X14.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.013534391534391534,0
+X11.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X5.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.0,0
+X9.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.15626210826210815,0
+X16.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.01511111111111111,0
+X23.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.017629629629629627,0
+X17.V1.454,recording_454,1,1,Crise (ictal),0.9960000000000002,1
+X15.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X21.V1.454,recording_454,1,1,Crise (ictal),1.0,1
+X13.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X19.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X6.V1.944,recording_944,1,1,Crise (ictal),0.9993333333333334,1
+X14.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.027015873015873014,0
+X4.V1.924,recording_924,1,1,Crise (ictal),0.9993333333333334,1
+X12.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.007777777777777777,0
+X16.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.00488888888888889,0
+X19.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X4.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.1206825396825397,0
+X13.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.007111111111111111,0
+X6.V1.874,recording_874,1,1,Crise (ictal),0.9993333333333334,1
+X22.V1.216,recording_216,1,1,Crise (ictal),0.9993333333333334,1
+X1.V1.944,recording_944,1,1,Crise (ictal),0.9880000000000001,1
+X3.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.07174074074074076,0
+X20.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.034111111111111106,0
+X4.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.352195767195767,0
+X5.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X12.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X11.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.0,0
+X23.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.3253919413919411,0
+X5.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.000149812734082397,0
+X23.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.0,0
+X6.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X15.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.016201058201058202,0
+X1.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X10.V1.594,recording_594,1,1,Crise (ictal),0.9985925925925926,1
+X3.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X12.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.015851851851851853,0
+X13.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.6250903540903541,1
+X22.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.009015873015873015,0
+X20.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.006031746031746032,0
+X5.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X21.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.010518518518518517,0
+X9.V1.134,recording_134,1,1,Crise (ictal),0.9530501895765057,1
+X15.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X2.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.244,recording_244,1,1,Crise (ictal),0.9996296296296298,1
+X1.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X15.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.3386539206051399,0
+X8.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.47192167309814353,0
+X2.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.03108994708994709,0
+X20.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.14791269464953674,0
+X9.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X22.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.03960942760942761,0
+X7.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.2886634515581882,0
+X9.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X13.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X21.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.012219780219780221,0
+X22.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.007238095238095239,0
+X13.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X17.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X14.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.0,0
+X2.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X14.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X15.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X23.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X21.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X18.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.2769004329004327,0
+X21.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X20.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X5.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.0,0
+X21.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.847843217898946,1
+X8.V1.364,recording_364,1,1,Crise (ictal),0.9993333333333334,1
+X2.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X20.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X17.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.021076923076923076,0
+X11.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.0,0
+X18.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.000149812734082397,0
+X1.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X22.V1.134,recording_134,1,1,Crise (ictal),0.9660056980056981,1
+X23.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.0,0
+X6.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.22959651817716312,0
+X22.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.0019047619047619048,0
+X14.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.144,recording_144,1,1,Crise (ictal),0.9978518518518519,1
+X23.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.874,recording_874,1,1,Crise (ictal),1.0,1
+X12.V1.944,recording_944,1,1,Crise (ictal),1.0,1
+X17.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X21.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X16.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X17.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X2.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X7.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.0,0
+X8.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.6255241506149435,1
+X4.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X13.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X15.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.012423280423280421,0
+X5.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X3.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.006555555555555556,0
+X4.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X6.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X6.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X23.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X7.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.17942612942612932,0
+X5.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X3.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.002666666666666667,0
+X8.V1.574,recording_574,1,1,Crise (ictal),1.0,1
+X13.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.03958730158730158,0
+X23.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X9.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X23.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X9.V1.594,recording_594,1,1,Crise (ictal),0.9972592592592594,1
+X7.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X6.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.4670560370072563,0
+X2.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.723842793879055,1
+X19.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.09442328042328046,0
+X3.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X10.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.924,recording_924,1,1,Crise (ictal),0.9942962962962963,1
+X15.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.14396296296296293,0
+X8.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.021535353535353532,0
+X16.V1.874,recording_874,1,1,Crise (ictal),0.9989629629629629,1
+X17.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.944,recording_944,1,1,Crise (ictal),0.9971851851851852,1
+X13.V1.134,recording_134,1,1,Crise (ictal),0.9036471873499744,1
+X9.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.924706552706553,1
+X10.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X12.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0044444444444444444,0
+X17.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X23.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X3.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.517,recording_517,1,1,Crise (ictal),0.9996296296296298,1
+X11.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.0,0
+X15.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.010074074074074072,0
+X7.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.17458867058867047,0
+X19.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X17.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X11.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X7.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X6.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.08333333333333336,0
+X20.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X21.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.924,recording_924,1,1,Crise (ictal),0.9993333333333334,1
+X11.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.008000000000000002,0
+X17.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X3.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X2.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.0657806267806268,0
+X3.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.244,recording_244,1,1,Crise (ictal),0.9875555555555555,1
+X4.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.007851851851851851,0
+X7.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.692709401709402,1
+X18.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X16.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X6.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.006349206349206349,0
+X21.V1.924,recording_924,1,1,Crise (ictal),0.9876296296296299,1
+X14.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X10.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.7469196525058596,1
+X20.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X4.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X15.V1.874,recording_874,1,1,Crise (ictal),0.9936695156695157,1
+X1.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X18.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.032370370370370376,0
+X17.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X20.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X19.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.22677339653810222,0
+X12.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.03911111111111111,0
+X20.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X1.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X11.V1.244,recording_244,1,1,Crise (ictal),0.991002849002849,1
+X3.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X22.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X18.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0019047619047619048,0
+X13.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X17.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.5970387825681942,1
+X13.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X23.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.574,recording_574,1,1,Crise (ictal),0.9935555555555557,1
+X15.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X18.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X17.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.0,0
+X16.V1.454,recording_454,1,1,Crise (ictal),0.9993333333333334,1
+X8.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X4.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.01422222222222222,0
+X18.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X11.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X8.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.0,0
+X5.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.1392303622303622,0
+X8.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.02133333333333333,0
+X22.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X14.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X16.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.002666666666666667,0
+X23.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.03503703703703704,0
+X23.V1.634,recording_634,1,1,Crise (ictal),0.968789841966313,1
+X20.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X16.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.007555555555555555,0
+X18.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X6.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X10.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X22.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X21.V1.664,recording_664,1,1,Crise (ictal),0.9993333333333334,1
+X20.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X1.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.16322885496569695,0
+X16.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X3.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X17.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.03795522995522996,0
+X12.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.1307912087912088,0
+X19.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.03153439153439153,0
+X20.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.924,recording_924,1,1,Crise (ictal),0.9404713064713068,1
+X21.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.042439153439153436,0
+X3.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.007111111111111111,0
+X7.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.00488888888888889,0
+X10.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.216,recording_216,1,1,Crise (ictal),0.9996296296296298,1
+X17.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X17.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X9.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.07153439153439155,0
+X19.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.8093303733303735,1
+X10.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0022222222222222222,0
+X9.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.0,0
+X18.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.924,recording_924,1,1,Crise (ictal),1.0,1
+X4.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.0044444444444444444,0
+X23.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.007313131313131314,0
+X1.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.1742577792577792,0
+X7.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.25601739001738977,0
+X3.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.634,recording_634,1,1,Crise (ictal),0.9624196413608179,1
+X13.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0016666666666666668,0
+X16.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.005333333333333334,0
+X20.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.517,recording_517,1,1,Crise (ictal),0.9952592592592593,1
+X9.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.9432891761463192,1
+X5.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.0,0
+X4.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.05817989417989417,0
+X2.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X15.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.07754593554593557,0
+X9.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0022222222222222222,0
+X16.V1.517,recording_517,1,1,Crise (ictal),0.996,1
+X11.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X15.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.1434859432506491,0
+X4.V1.164,recording_164,1,1,Crise (ictal),0.998962962962963,1
+X12.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X11.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X14.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.0,0
+X16.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.574,recording_574,1,1,Crise (ictal),0.9998039215686274,1
+X11.V1.517,recording_517,1,1,Crise (ictal),1.0,1
+X9.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.009756613756613757,0
+X5.V1.164,recording_164,1,1,Crise (ictal),0.984148148148148,1
+X1.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X10.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.03533618233618233,0
+X11.V1.144,recording_144,1,1,Crise (ictal),0.9782222222222223,1
+X15.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.04399999999999999,0
+X4.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X6.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.944,recording_944,1,1,Crise (ictal),1.0,1
+X21.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X8.V1.634,recording_634,1,1,Crise (ictal),0.8953838013838019,1
+X15.V1.617,recording_617,1,1,Crise (ictal),0.9998039215686274,1
+X19.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.134,recording_134,1,1,Crise (ictal),0.8975145003145005,1
+X20.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.00488888888888889,0
+X16.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.02518518518518519,0
+X21.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.134,recording_134,1,1,Crise (ictal),0.9730254190254192,1
+X10.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X17.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X12.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0,0
+X18.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.00488888888888889,0
+X22.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.0,0
+X18.V1.244,recording_244,1,1,Crise (ictal),1.0,1
+X19.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X13.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.9476042552286619,1
+X11.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.924,recording_924,1,1,Crise (ictal),0.9989629629629629,1
+X15.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X1.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X9.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X2.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0019047619047619048,0
+X12.V1.134,recording_134,1,1,Crise (ictal),0.8293168510196379,1
+X6.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X16.V1.664,recording_664,1,1,Crise (ictal),0.9996296296296298,1
+X18.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X5.V1.216,recording_216,1,1,Crise (ictal),0.9997435897435897,1
+X11.V1.924,recording_924,1,1,Crise (ictal),1.0,1
+X21.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.4212986420986419,0
+X7.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X13.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.023968253968253965,0
+X8.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0206984126984127,0
+X16.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9387464387464388,1
+X9.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X14.V1.454,recording_454,1,1,Crise (ictal),1.0,1
+X8.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X12.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.1438435618961934,0
+X3.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X3.V1.454,recording_454,1,1,Crise (ictal),0.9993333333333334,1
+X21.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.944,recording_944,1,1,Crise (ictal),1.0,1
+X14.V1.216,recording_216,1,1,Crise (ictal),0.996,1
+X2.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X5.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X22.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.944,recording_944,1,1,Crise (ictal),0.9942222222222221,1
+X1.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X14.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X1.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9133514328808445,1
+X12.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X13.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X8.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.010571428571428572,0
+X12.V1.594,recording_594,1,1,Crise (ictal),0.9581481481481482,1
+X12.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X21.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.27052858252858236,0
+X18.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X12.V1.164,recording_164,1,1,Crise (ictal),1.0,1
+X19.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.9821710740093491,1
+X21.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.018222222222222226,0
+X15.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.000149812734082397,0
+X4.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.00488888888888889,0
+X18.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X13.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X12.V1.454,recording_454,1,1,Crise (ictal),1.0,1
+X20.V1.574,recording_574,1,1,Crise (ictal),1.0,1
+X19.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.7425248878021946,1
+X16.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.594,recording_594,1,1,Crise (ictal),0.9986666666666667,1
+X20.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.07177533577533579,0
+X22.V1.944,recording_944,1,1,Crise (ictal),0.9899259259259259,1
+X19.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.011888888888888888,0
+X6.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X22.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X16.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.005333333333333334,0
+X22.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.12330113306583897,0
+X6.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X23.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X23.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.009535353535353534,0
+X8.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0019047619047619048,0
+X7.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X8.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.0,0
+X6.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.11055840455840459,0
+X22.V1.874,recording_874,1,1,Crise (ictal),0.9956190476190477,1
+X3.V1.634,recording_634,1,1,Crise (ictal),0.9429826469826474,1
+X7.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0,0
+X22.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X4.V1.517,recording_517,1,1,Crise (ictal),0.9993333333333334,1
+X9.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X20.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0007407407407407407,0
+X14.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X13.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X5.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.874,recording_874,1,1,Crise (ictal),1.0,1
+X22.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.012075036075036074,0
+X3.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X19.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X3.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.924,recording_924,1,1,Crise (ictal),0.9981481481481482,1
+X4.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X3.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.010888888888888889,0
+X17.V1.574,recording_574,1,1,Crise (ictal),0.994820512820513,1
+X13.V1.454,recording_454,1,1,Crise (ictal),0.9993333333333334,1
+X16.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X7.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X5.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9767743220458772,1
+X15.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X22.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X1.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.1273279132791328,0
+X7.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X3.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0011111111111111111,0
+X10.V1.144,recording_144,1,1,Crise (ictal),0.9962222222222222,1
+X4.V1.134,recording_134,1,1,Crise (ictal),0.742564072305249,1
+X20.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.9204364002011071,1
+X19.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.11304858104858108,0
+X7.V1.874,recording_874,1,1,Crise (ictal),0.9993333333333334,1
+X7.V1.134,recording_134,1,1,Crise (ictal),0.9298240567652338,1
+X7.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.0016666666666666668,0
+X5.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X16.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X6.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.004333333333333333,0
+X12.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X10.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X3.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.008000000000000002,0
+X16.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X23.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.8056906796906798,1
+X7.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X11.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X15.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X15.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.164,recording_164,1,1,Crise (ictal),0.9768148148148149,1
+X10.V1.134,recording_134,1,1,Crise (ictal),0.9252463310110375,1
+X1.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X10.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.012888888888888887,0
+X5.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X4.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X12.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.01723809523809524,0
+X7.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.0,0
+X10.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0,0
+X20.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X11.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.244,recording_244,1,1,Crise (ictal),0.9996296296296298,1
+X8.V1.594,recording_594,1,1,Crise (ictal),0.987925925925926,1
+X18.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.0,0
+X3.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.6178176638176638,1
+X3.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.9067294562363062,1
+X8.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.022555555555555554,0
+X11.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.24824836601307165,0
+X7.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.002666666666666667,0
+X22.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0011111111111111111,0
+X6.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.6408461386108446,1
+X2.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X18.V1.134,recording_134,1,1,Crise (ictal),0.9303440111087177,1
+X16.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X7.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X10.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X3.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X15.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.002962962962962963,0
+X18.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X18.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.009979797979797981,0
+X5.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.944,recording_944,1,1,Crise (ictal),0.9993333333333334,1
+X7.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X22.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X21.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0044444444444444444,0
+X21.V1.634,recording_634,1,1,Crise (ictal),0.8292701807995931,1
+X15.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.6530685675979799,1
+X1.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.041756613756613756,0
+X11.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X10.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X21.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.010666666666666668,0
+X4.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X6.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X22.V1.144,recording_144,1,1,Crise (ictal),0.986808080808081,1
+X12.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X11.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X6.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.008888888888888889,0
+X10.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.012888888888888889,0
+X16.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.06342612942612944,0
+X15.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.5079864408373533,1
+X15.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X11.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X22.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.004148148148148148,0
+X23.V1.944,recording_944,1,1,Crise (ictal),0.948928774928775,1
+X11.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.00488888888888889,0
+X15.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.008296296296296296,0
+X10.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X22.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.144,recording_144,1,1,Crise (ictal),0.9834814814814816,1
+X9.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.005333333333333334,0
+X13.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X6.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.004126984126984127,0
+X13.V1.874,recording_874,1,1,Crise (ictal),0.9996296296296298,1
+X16.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.144,recording_144,1,1,Crise (ictal),0.9817891737891739,1
+X21.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X15.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.03462530062530062,0
+X5.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X11.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.44211003811003774,0
+X4.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X15.V1.574,recording_574,1,1,Crise (ictal),1.0,1
+X6.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.007111111111111111,0
+X1.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.37562025338495914,0
+X1.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X20.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0,0
+X21.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X7.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X23.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.011999999999999999,0
+X10.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X9.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.8194286671933733,1
+X14.V1.634,recording_634,1,1,Crise (ictal),0.9713862433862437,1
+X4.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.944,recording_944,1,1,Crise (ictal),0.9721481481481485,1
+X17.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X13.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X1.V1.144,recording_144,1,1,Crise (ictal),0.9851650197297257,1
+X17.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.009333333333333332,0
+X1.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.9276589336589341,1
+X4.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.012219780219780221,0
+X10.V1.517,recording_517,1,1,Crise (ictal),1.0,1
+X22.V1.594,recording_594,1,1,Crise (ictal),0.9886928104575164,1
+X1.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.032328042328042324,0
+X8.V1.944,recording_944,1,1,Crise (ictal),0.9953333333333334,1
+X9.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.18580952380952365,0
+X12.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.02379365079365079,0
+X3.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.09841025641025643,0
+X15.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X10.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.010055555555555555,0
+X6.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X7.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X20.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.2646835016835015,0
+X17.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.21723711282331948,0
+X17.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.264,recording_264,1,1,Crise (ictal),0.9988296296296297,1
+X6.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.012793650793650793,0
+X12.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X5.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X4.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.009333333333333332,0
+X23.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.14243558776167467,0
+X6.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.38923513523513487,0
+X22.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X4.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.042867724867724874,0
+X17.V1.517,recording_517,1,1,Crise (ictal),0.9912592592592593,1
+X1.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.007555555555555555,0
+X5.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.00488888888888889,0
+X23.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X9.V1.454,recording_454,1,1,Crise (ictal),0.9878917378917379,1
+X21.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X21.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.005757575757575757,0
+X15.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.617,recording_617,1,1,Crise (ictal),0.9996296296296298,1
+X20.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X12.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.7879562877209936,1
+X15.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X8.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.634,recording_634,1,1,Crise (ictal),0.8601668701668708,1
+X3.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.033015873015873026,0
+X2.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X21.V1.574,recording_574,1,1,Crise (ictal),1.0,1
+X20.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0044444444444444444,0
+X11.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X13.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.04236507936507936,0
+X17.V1.634,recording_634,1,1,Crise (ictal),0.2686632422494489,0
+X22.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X11.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X6.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.944,recording_944,1,1,Crise (ictal),1.0,1
+X16.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X18.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.22685085285085266,0
+X7.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X8.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X7.V1.244,recording_244,1,1,Crise (ictal),0.9913862433862435,1
+X23.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.37701006401006365,0
+X16.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.144,recording_144,1,1,Crise (ictal),0.9816260323718705,1
+X22.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0019047619047619048,0
+X7.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X14.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X9.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.0,0
+X8.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.000149812734082397,0
+X13.V1.517,recording_517,1,1,Crise (ictal),1.0,1
+X3.V1.134,recording_134,1,1,Crise (ictal),0.9901655773420481,1
+X23.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X6.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.0,0
+X10.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.0,0
+X3.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.03846316646316647,0
+X4.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0019047619047619048,0
+X20.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X5.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.454,recording_454,1,1,Crise (ictal),0.9964705882352941,1
+X10.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.1532347282347282,0
+X22.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0035555555555555553,0
+X1.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.007407407407407406,0
+X16.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X18.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.05846560846560847,0
+X19.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X3.V1.924,recording_924,1,1,Crise (ictal),0.9993333333333334,1
+X13.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X6.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.007,0
+X14.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.20148962148962127,0
+X22.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.050296296296296304,0
+X15.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.008222222222222223,0
+X7.V1.144,recording_144,1,1,Crise (ictal),0.9971851851851852,1
+X14.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.2736181781181779,0
+X10.V1.164,recording_164,1,1,Crise (ictal),0.9911851851851854,1
+X9.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.13196581196581195,0
+X18.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.31979934879934857,0
+X21.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.22216157916157891,0
+X3.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X7.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X12.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.0336084656084656,0
+X3.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X4.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X21.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X15.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X16.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X10.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X19.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X18.V1.594,recording_594,1,1,Crise (ictal),0.9925925925925928,1
+X20.V1.454,recording_454,1,1,Crise (ictal),1.0,1
+X13.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X12.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.24267704039817523,0
+X22.V1.517,recording_517,1,1,Crise (ictal),0.9936666666666667,1
+X1.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X20.V1.944,recording_944,1,1,Crise (ictal),0.9985185185185185,1
+X13.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X2.V1.574,recording_574,1,1,Crise (ictal),1.0,1
+X7.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.2532197802197801,0
+X1.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X5.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.012296296296296296,0
+X11.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X4.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X3.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.005333333333333334,0
+X6.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X9.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X9.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.3587539981094964,0
+X3.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.002962962962962963,0
+X2.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.035925925925925924,0
+X9.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X2.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.000149812734082397,0
+X1.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X3.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.244,recording_244,1,1,Crise (ictal),1.0,1
+X4.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X22.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0030967741935483874,0
+X18.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X18.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X1.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9720740740740742,1
+X17.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.0,0
+X14.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X6.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.4377176564335815,0
+X3.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X3.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X7.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X6.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.244,recording_244,1,1,Crise (ictal),0.9959520697167757,1
+X23.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0044444444444444444,0
+X19.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.01434920634920635,0
+X10.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.010518518518518519,0
+X2.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.244,recording_244,1,1,Crise (ictal),0.9924444444444445,1
+X1.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X5.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.398268845533551,0
+X14.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.29813302166243316,0
+X15.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X15.V1.517,recording_517,1,1,Crise (ictal),0.9953333333333334,1
+X5.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.0019047619047619048,0
+X9.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X2.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.19288888888888867,0
+X16.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X10.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X7.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X17.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0019047619047619048,0
+X19.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X6.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X23.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.005396825396825397,0
+X13.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.634,recording_634,1,1,Crise (ictal),0.9069898249898258,1
+X9.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.164,recording_164,1,1,Crise (ictal),1.0,1
+X3.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.29482251453843966,0
+X13.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.18273193473193464,0
+X12.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.05572323972323974,0
+X22.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.21069841269841247,0
+X12.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X14.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.1163597883597884,0
+X14.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.134,recording_134,1,1,Crise (ictal),0.9403549043549047,1
+X2.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.4869936359936356,0
+X8.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.00488888888888889,0
+X1.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.0033333333333333335,0
+X11.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X17.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.00948148148148148,0
+X4.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.007555555555555555,0
+X13.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.003407407407407407,0
+X20.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X3.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.01457142857142857,0
+X3.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.025555555555555554,0
+X1.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.634,recording_634,1,1,Crise (ictal),0.7951755612011369,1
+X23.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X3.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.574,recording_574,1,1,Crise (ictal),0.9991372549019608,1
+X2.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9270028490028495,1
+X4.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.617,recording_617,1,1,Crise (ictal),0.9993333333333334,1
+X20.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X6.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.874,recording_874,1,1,Crise (ictal),0.9762010582010582,1
+X3.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.2660302660302659,0
+X11.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.005629629629629629,0
+X9.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X17.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.364,recording_364,1,1,Crise (ictal),0.9988888888888887,1
+X6.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.022202020202020202,0
+X2.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.05642328042328044,0
+X16.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.8079743589743595,1
+X11.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.00488888888888889,0
+X11.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X2.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X14.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X17.V1.134,recording_134,1,1,Crise (ictal),0.6670967356230514,1
+X10.V1.574,recording_574,1,1,Crise (ictal),0.9989629629629629,1
+X11.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.4604015984015983,0
+X21.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X20.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.005333333333333334,0
+X14.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X8.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.026793650793650793,0
+X21.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X13.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X5.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X7.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.19566233766233745,0
+X22.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.002666666666666667,0
+X19.V1.574,recording_574,1,1,Crise (ictal),0.9988888888888889,1
+X7.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.011185185185185183,0
+X14.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X12.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.049957671957671965,0
+X6.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X9.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.15080031080031076,0
+X1.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.634,recording_634,1,1,Crise (ictal),0.7941458384752509,1
+X7.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X19.V1.244,recording_244,1,1,Crise (ictal),1.0,1
+X1.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X16.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.011888888888888888,0
+X1.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X19.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.015682539682539683,0
+X13.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.323350131350131,0
+X16.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.005333333333333334,0
+X7.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.02662433862433862,0
+X2.V1.454,recording_454,1,1,Crise (ictal),0.9996296296296298,1
+X23.V1.924,recording_924,1,1,Crise (ictal),0.9993333333333334,1
+X2.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.574,recording_574,1,1,Crise (ictal),1.0,1
+X1.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X22.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X22.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.05270370370370372,0
+X18.V1.874,recording_874,1,1,Crise (ictal),0.9962621082621083,1
+X15.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0387936507936508,0
+X14.V1.874,recording_874,1,1,Crise (ictal),0.997433551198257,1
+X2.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X9.V1.517,recording_517,1,1,Crise (ictal),0.9962962962962963,1
+X17.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X3.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.002816479400749064,0
+X15.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.1613854293854293,0
+X14.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X1.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.0,0
+X3.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.05577370777370778,0
+X9.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X10.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.010962962962962963,0
+X21.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X1.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X7.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X3.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.00488888888888889,0
+X18.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X6.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.2459234839234837,0
+X22.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X8.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.3870962419223286,0
+X12.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.20726984126984108,0
+X6.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X11.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.008666666666666666,0
+X21.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.004571428571428572,0
+X7.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9742899915615466,1
+X17.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X4.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.01288888888888889,0
+X4.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X19.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.19766731225351894,0
+X16.V1.244,recording_244,1,1,Crise (ictal),0.9993333333333334,1
+X4.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.6264798362467713,1
+X20.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0,0
+X15.V1.594,recording_594,1,1,Crise (ictal),0.9918518518518518,1
+X21.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.216,recording_216,1,1,Crise (ictal),0.9966666666666667,1
+X5.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.0,0
+X3.V1.244,recording_244,1,1,Crise (ictal),1.0,1
+X9.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.0,0
+X16.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X9.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.00488888888888889,0
+X8.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X22.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.009312169312169312,0
+X20.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X22.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.11494560994560997,0
+X12.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0019047619047619048,0
+X20.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X18.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.268918138735476,0
+X18.V1.664,recording_664,1,1,Crise (ictal),0.9966666666666667,1
+X16.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X5.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.517,recording_517,1,1,Crise (ictal),1.0,1
+X20.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X8.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.13518518518518513,0
+X21.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X1.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X12.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X6.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.2388475228475226,0
+X20.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X2.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.006666666666666667,0
+X5.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X2.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X1.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.025777777777777778,0
+X16.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X2.V1.924,recording_924,1,1,Crise (ictal),0.9993333333333334,1
+X5.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.6508021978021978,1
+X22.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.016444444444444446,0
+X15.V1.944,recording_944,1,1,Crise (ictal),0.996,1
+X12.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X7.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.026032708032708036,0
+X19.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.012571428571428572,0
+X3.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.0,0
+X10.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.0341010101010101,0
+X13.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X9.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.021373219373219374,0
+X3.V1.517,recording_517,1,1,Crise (ictal),0.9976557734204793,1
+X3.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X10.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X21.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X6.V1.364,recording_364,1,1,Crise (ictal),0.9993333333333334,1
+X5.V1.944,recording_944,1,1,Crise (ictal),0.9942962962962965,1
+X21.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.14646886446886442,0
+X7.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X22.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.07019861619861623,0
+X7.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X14.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.924,recording_924,1,1,Crise (ictal),0.9989629629629629,1
+X7.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.454,recording_454,1,1,Crise (ictal),0.9933333333333333,1
+X5.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.009481481481481483,0
+X23.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.007238095238095239,0
+X8.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.012444444444444445,0
+X13.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X7.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X15.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.04123905723905724,0
+X17.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.3086122766122763,0
+X12.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X22.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X22.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.6024934324934322,1
+X6.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.005333333333333334,0
+X23.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X5.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.03426455026455027,0
+X21.V1.517,recording_517,1,1,Crise (ictal),0.9987065527065526,1
+X22.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.00488888888888889,0
+X21.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.0635954415954416,0
+X20.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.017777777777777778,0
+X5.V1.134,recording_134,1,1,Crise (ictal),0.9819658119658121,1
+X10.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.09675132275132278,0
+X15.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X16.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X12.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.006,0
+X17.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.007555555555555555,0
+X5.V1.454,recording_454,1,1,Crise (ictal),1.0,1
+X2.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X13.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X22.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.0044444444444444444,0
+X18.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X2.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.634,recording_634,1,1,Crise (ictal),0.8023122250069622,1
+X5.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.010888888888888889,0
+X15.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X12.V1.617,recording_617,1,1,Crise (ictal),0.9988888888888889,1
+X8.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.024444444444444446,0
+X2.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.0,0
+X16.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.1872568172568171,0
+X8.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X11.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X11.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.29444588744588734,0
+X16.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X16.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X20.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9533732193732195,1
+X8.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.025111111111111115,0
+X13.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.09340307840307843,0
+X12.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.17004273309536455,0
+X8.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9785925925925928,1
+X20.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X15.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.012273504273504274,0
+X12.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.011999999999999999,0
+X18.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.020793650793650795,0
+X11.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X3.V1.144,recording_144,1,1,Crise (ictal),0.994888888888889,1
+X14.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.007555555555555555,0
+X7.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.9482819800798516,1
+X19.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.244,recording_244,1,1,Crise (ictal),1.0,1
+X11.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X3.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X4.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X7.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.16094464794464786,0
+X2.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.026846560846560844,0
+X23.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.4075021693282561,0
+X12.V1.634,recording_634,1,1,Crise (ictal),0.5664555814555814,1
+X8.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X8.V12,recording_missing_class_3,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.012533333333333334,0
+X6.V1.134,recording_134,1,1,Crise (ictal),0.9608344988344991,1
+X11.V1.164,recording_164,1,1,Crise (ictal),1.0,1
+X17.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.517,recording_517,1,1,Crise (ictal),0.9956296296296298,1
+X16.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.634,recording_634,1,1,Crise (ictal),0.9629181929181932,1
+X13.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.18965216265216248,0
+X18.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.004646464646464647,0
+X19.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X16.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X15.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X19.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.018999999999999996,0
+X2.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.6438921867182736,1
+X21.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.081958633958634,0
+X17.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X18.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X17.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X3.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X6.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X18.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9634416912063972,1
+X14.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X8.V1.517,recording_517,1,1,Crise (ictal),0.996962962962963,1
+X2.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.007555555555555555,0
+X12.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X6.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X23.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.903,recording_903,2,0,"Zone épileptogène, hors crise",0.14763099863099854,0
+X16.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X8.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X11.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.01540740740740741,0
+X2.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X21.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.007555555555555555,0
+X19.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X3.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.7699741435035558,1
+X19.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X13.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.007111111111111111,0
+X5.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X2.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.34731555290175953,0
+X4.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.007555555555555555,0
+X15.V1.634,recording_634,1,1,Crise (ictal),0.9561125906772967,1
+X10.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X13.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X1.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X8.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X12.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X9.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X21.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.002666666666666667,0
+X23.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X22.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.005333333333333334,0
+X10.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X22.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X5.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.0,0
+X4.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.033037037037037045,0
+X9.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.009460317460317459,0
+X22.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.144,recording_144,1,1,Crise (ictal),0.9749891067538128,1
+X3.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0044444444444444444,0
+X6.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.144,recording_144,1,1,Crise (ictal),0.8949715099715104,1
+X10.V1.874,recording_874,1,1,Crise (ictal),0.999948717948718,1
+X16.V1.944,recording_944,1,1,Crise (ictal),0.9996296296296298,1
+X1.V1.874,recording_874,1,1,Crise (ictal),0.9996296296296298,1
+X11.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.41461945461945426,0
+X10.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.874,recording_874,1,1,Crise (ictal),0.9993333333333334,1
+X22.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.0,0
+X20.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.252,recording_252,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X3.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.04068350168350168,0
+X20.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X22.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.9825869903516963,1
+X4.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X8.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X14.V1.594,recording_594,1,1,Crise (ictal),1.0,1
+X3.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X5.V1.144,recording_144,1,1,Crise (ictal),0.9573178673178677,1
+X11.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0037777777777777775,0
+X23.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.454,recording_454,1,1,Crise (ictal),1.0,1
+X22.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.00977777777777778,0
+X13.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0,0
+X19.V1.981,recording_981,4,0,"Sujet sain, yeux fermés",0.050994708994708995,0
+X15.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X11.V1.874,recording_874,1,1,Crise (ictal),0.9993333333333334,1
+X14.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.0,0
+X3.V1.821,recording_821,4,0,"Sujet sain, yeux fermés",0.017851851851851855,0
+X7.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X19.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X23.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.12392592592592593,0
+X16.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.010222222222222221,0
+X10.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X16.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.08156744230428443,0
+X12.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.8825194800841861,1
+X5.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.008592592592592593,0
+X9.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.216,recording_216,1,1,Crise (ictal),1.0,1
+X1.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0044444444444444444,0
+X17.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.1442857142857142,0
+X16.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0022222222222222222,0
+X11.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9540927960927962,1
+X2.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.018285714285714287,0
+X21.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.46670370370370384,0
+X15.V1.751,recording_751,4,0,"Sujet sain, yeux fermés",0.006,0
+X20.V1.162,recording_162,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.594,recording_594,1,1,Crise (ictal),0.993925925925926,1
+X23.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.593,recording_593,2,0,"Zone épileptogène, hors crise",0.9364843304843307,1
+X13.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0022222222222222222,0
+X19.V1.664,recording_664,1,1,Crise (ictal),0.9959259259259259,1
+X13.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X6.V1.634,recording_634,1,1,Crise (ictal),0.9745383131030191,1
+X17.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X14.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.1278518518518518,0
+X9.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.24092159692159668,0
+X22.V1.634,recording_634,1,1,Crise (ictal),0.896991748991749,1
+X14.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X12.V1.613,recording_613,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X16.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.002666666666666667,0
+X5.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X17.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0016666666666666668,0
+X21.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.000149812734082397,0
+X1.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X16.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.04696296296296297,0
+X11.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.664,recording_664,1,1,Crise (ictal),0.9966666666666667,1
+X5.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.02074074074074074,0
+X5.V1.72,recording_072,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.683,recording_683,2,0,"Zone épileptogène, hors crise",0.0,0
+X7.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.723,recording_723,2,0,"Zone épileptogène, hors crise",0.8793334290981357,1
+X8.V1.617,recording_617,1,1,Crise (ictal),0.9486876152170273,1
+X5.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X1.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.15468253968253962,0
+X17.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X13.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X13.V1.594,recording_594,1,1,Crise (ictal),0.9956296296296295,1
+X3.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.3590234233144447,0
+X1.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X15.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.0,0
+X21.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.664,recording_664,1,1,Crise (ictal),0.9996296296296298,1
+X13.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X22.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0,0
+X2.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X5.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X3.V1.192,recording_192,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.020645502645502647,0
+X6.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.011365079365079363,0
+X20.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.0,0
+X10.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0033333333333333335,0
+X2.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.03783068783068783,0
+X9.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.00488888888888889,0
+X18.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X21.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X20.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.134,recording_134,1,1,Crise (ictal),0.9728092125739187,1
+X22.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X4.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X6.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.0,0
+X11.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X18.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.01411111111111111,0
+X9.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X11.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.0,0
+X15.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.113,recording_113,3,0,"Hippocampe opposé, hors crise",0.0,0
+X5.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X3.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X23.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X21.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X5.V1.924,recording_924,1,1,Crise (ictal),0.9986666666666667,1
+X18.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.0,0
+X9.V1,recording_missing_class_5,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X7.V1.517,recording_517,1,1,Crise (ictal),1.0,1
+X19.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.038074074074074066,0
+X19.V1.721,recording_721,4,0,"Sujet sain, yeux fermés",0.0,0
+X15.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0022222222222222222,0
+X5.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.0710856180856181,0
+X5.V1.364,recording_364,1,1,Crise (ictal),1.0,1
+X22.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X1.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X10.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X17.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0033333333333333335,0
+X10.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X5.V1.617,recording_617,1,1,Crise (ictal),0.9996296296296298,1
+X20.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X16.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.134,recording_134,1,1,Crise (ictal),0.980656898656899,1
+X5.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.0022222222222222222,0
+X6.V1.35,recording_035,5,0,"Sujet sain, yeux ouverts",0.0,0
+X23.V1.713,recording_713,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X5.V1.874,recording_874,1,1,Crise (ictal),1.0,1
+X19.V1.841,recording_841,4,0,"Sujet sain, yeux fermés",0.0,0
+X2.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.006,0
+X4.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.1534622414622414,0
+X20.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.631,recording_631,4,0,"Sujet sain, yeux fermés",0.030484330484330482,0
+X13.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X1.V1.664,recording_664,1,1,Crise (ictal),1.0,1
+X2.V1.410,recording_410,4,0,"Sujet sain, yeux fermés",0.09678062678062682,0
+X23.V1.2,recording_002,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.664,recording_664,1,1,Crise (ictal),0.9966666666666667,1
+X7.V1.564,recording_564,1,1,Crise (ictal),0.9982141779788839,1
+X4.V1.302,recording_302,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X13.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.18326318484382983,0
+X7.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0019047619047619048,0
+X9.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.04434920634920635,0
+X1.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.19717637917637898,0
+X20.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X16.V1.801,recording_801,4,0,"Sujet sain, yeux fermés",0.04877777777777778,0
+X17.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.0,0
+X5.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.634,recording_634,1,1,Crise (ictal),0.9430949268596334,1
+X3.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X16.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.13551322751322747,0
+X15.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.0,0
+X9.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.21,recording_021,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.282,recording_282,3,0,"Hippocampe opposé, hors crise",0.0,0
+X15.V1.92,recording_092,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.006238095238095238,0
+X16.V1.134,recording_134,1,1,Crise (ictal),0.971374060895883,1
+X4.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X1.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.0,0
+X23.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X22.V1.101,recording_101,4,0,"Sujet sain, yeux fermés",0.08548433048433052,0
+X11.V1.321,recording_321,4,0,"Sujet sain, yeux fermés",0.0,0
+X20.V1.716,recording_716,1,1,Crise (ictal),1.0,1
+X17.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.574,recording_574,1,1,Crise (ictal),1.0,1
+X13.V1.742,recording_742,3,0,"Hippocampe opposé, hors crise",0.0,0
+X17.V1.944,recording_944,1,1,Crise (ictal),0.9952592592592595,1
+X18.V1.553,recording_553,2,0,"Zone épileptogène, hors crise",0.0,0
+X20.V1.53,recording_053,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.110,recording_110,4,0,"Sujet sain, yeux fermés",0.0,0
+X15.V1.134,recording_134,1,1,Crise (ictal),0.9443336441336447,1
+X19.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.27034838596907546,0
+X8.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.000149812734082397,0
+X6.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.164,recording_164,1,1,Crise (ictal),1.0,1
+X6.V1.454,recording_454,1,1,Crise (ictal),1.0,1
+X23.V1.216,recording_216,1,1,Crise (ictal),0.9992144892144893,1
+X11.V1.22,recording_022,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.014698412698412697,0
+X15.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.0,0
+X8.V1.924,recording_924,1,1,Crise (ictal),1.0,1
+X2.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X21.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X4.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X7.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X6.V1.44,recording_044,5,0,"Sujet sain, yeux ouverts",0.0,0
+X1.V1.14,recording_014,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X1.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X23.V1.517,recording_517,1,1,Crise (ictal),0.9575555555555559,1
+X11.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X12.V1.921,recording_921,4,0,"Sujet sain, yeux fermés",0.0,0
+X19.V1.991,recording_991,4,0,"Sujet sain, yeux fermés",0.029555555555555557,0
+X7.V1.433,recording_433,2,0,"Zone épileptogène, hors crise",0.0102010582010582,0
+X21.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X21.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X11.V1.731,recording_731,4,0,"Sujet sain, yeux fermés",0.0022222222222222222,0
+X9.V1.522,recording_522,3,0,"Hippocampe opposé, hors crise",0.0,0
+X6.V1.372,recording_372,3,0,"Hippocampe opposé, hors crise",0.0,0
+X1.V1.134,recording_134,1,1,Crise (ictal),0.9696590621853783,1
+X12.V1.452,recording_452,3,0,"Hippocampe opposé, hors crise",0.0,0
+X6.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X1.V1.454,recording_454,1,1,Crise (ictal),1.0,1
+X16.V1.617,recording_617,1,1,Crise (ictal),1.0,1
+X2.V1.561,recording_561,4,0,"Sujet sain, yeux fermés",0.0,0
+X16.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.9289905663414796,1
+X10.V1.564,recording_564,1,1,Crise (ictal),1.0,1
+X21.V1.164,recording_164,1,1,Crise (ictal),0.9996296296296298,1
+X15.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.3713947903947901,0
+X18.V1.49,recording_049,5,0,"Sujet sain, yeux ouverts",0.010222222222222221,0
+X19.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X18.V1.89,recording_089,5,0,"Sujet sain, yeux ouverts",0.0,0
+X2.V1.264,recording_264,1,1,Crise (ictal),0.9966666666666667,1
+X7.V1.363,recording_363,2,0,"Zone épileptogène, hors crise",0.0,0
+X10.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.008296296296296296,0
+X8.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X12.V1.54,recording_054,5,0,"Sujet sain, yeux ouverts",0.0,0
+X10.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.00946031746031746,0
+X4.V1.264,recording_264,1,1,Crise (ictal),1.0,1
+X4.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.3181822251822249,0
+X13.V1.792,recording_792,3,0,"Hippocampe opposé, hors crise",0.2257287933094383,0
+X2.V1.874,recording_874,1,1,Crise (ictal),0.9966666666666667,1
+X23.V1.621,recording_621,4,0,"Sujet sain, yeux fermés",0.002666666666666667,0
+X12.V1.50,recording_050,5,0,"Sujet sain, yeux ouverts",0.0,0
+X14.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.038253968253968255,0
+X16.V1.362,recording_362,3,0,"Hippocampe opposé, hors crise",0.0,0
+X6.V1.692,recording_692,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X18.V1.283,recording_283,2,0,"Zone épileptogène, hors crise",0.16454036317920157,0
+X21.V1.573,recording_573,2,0,"Zone épileptogène, hors crise",0.0,0
+X22.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0,0
+X9.V1.833,recording_833,2,0,"Zone épileptogène, hors crise",0.0,0
+X4.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.612,recording_612,3,0,"Hippocampe opposé, hors crise",0.037121693121693125,0
+X12.V1.244,recording_244,1,1,Crise (ictal),0.9955555555555554,1
+X15.V1.203,recording_203,2,0,"Zone épileptogène, hors crise",0.7700828452593161,1
+X6.V1.442,recording_442,3,0,"Hippocampe opposé, hors crise",0.0022222222222222222,0
+X16.V1.243,recording_243,2,0,"Zone épileptogène, hors crise",0.061979797979798,0
+X23.V1.832,recording_832,3,0,"Hippocampe opposé, hors crise",0.002666666666666667,0
+X15.V1.234,recording_234,1,1,Crise (ictal),1.0,1
+X13.V1.531,recording_531,4,0,"Sujet sain, yeux fermés",0.0,0
+X5.V1.511,recording_511,4,0,"Sujet sain, yeux fermés",0.0,0
+X11.V1.953,recording_953,2,0,"Zone épileptogène, hors crise",0.00488888888888889,0
+X21.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.005185185185185184,0
+X20.V1.582,recording_582,3,0,"Hippocampe opposé, hors crise",0.0,0
+X14.V1.373,recording_373,2,0,"Zone épileptogène, hors crise",0.0,0
+X14.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.03051851851851852,0
+X16.V1.59,recording_059,5,0,"Sujet sain, yeux ouverts",0.0022222222222222222,0
+X18.V1.924,recording_924,1,1,Crise (ictal),0.966637410519764,1
+X2.V1.311,recording_311,4,0,"Sujet sain, yeux fermés",0.0,0
+X3.V1.414,recording_414,2,0,"Zone épileptogène, hors crise",0.45018054494525056,0
+X18.V1.371,recording_371,4,0,"Sujet sain, yeux fermés",0.03418085618085618,0
+X4.V1.55,recording_055,5,0,"Sujet sain, yeux ouverts",0.0074603174603174605,0
+X16.V1.574,recording_574,1,1,Crise (ictal),0.9973227513227514,1
+X20.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.16144011544011533,0
+X16.V1.851,recording_851,4,0,"Sujet sain, yeux fermés",0.1434444444444444,0
+X8.V1.88,recording_088,5,0,"Sujet sain, yeux ouverts",0.0,0
+X1.V1.902,recording_902,3,0,"Hippocampe opposé, hors crise",0.5371097268744327,1
+X7.V1.81,recording_081,5,0,"Sujet sain, yeux ouverts",0.0,0
+X15.V1.601,recording_601,4,0,"Sujet sain, yeux fermés",0.0,0
+X17.V1.874,recording_874,1,1,Crise (ictal),0.9962222222222222,1
+X7.V1.51,recording_051,5,0,"Sujet sain, yeux ouverts",0.0,0
+X20.V1.883,recording_883,2,0,"Zone épileptogène, hors crise",0.0044444444444444444,0
+X21.V1.762,recording_762,3,0,"Hippocampe opposé, hors crise",0.006296296296296296,0
+X22.V1.114,recording_114,2,0,"Zone épileptogène, hors crise",0.0,0

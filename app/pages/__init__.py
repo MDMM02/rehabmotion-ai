@@ -1,0 +1,2 @@
+"""Future multipage Streamlit views."""
+

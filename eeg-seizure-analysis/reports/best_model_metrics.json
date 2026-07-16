@@ -1,0 +1,17 @@
+{
+  "model": "extra_trees",
+  "cv_average_precision": 0.9896216559710082,
+  "cv_roc_auc": 0.9969503928402645,
+  "roc_auc": 0.9980044896030246,
+  "average_precision": 0.992284317259338,
+  "accuracy": 0.967391304347826,
+  "balanced_accuracy": 0.9788043478260869,
+  "precision": 0.8611632270168855,
+  "recall_sensitivity": 0.9978260869565218,
+  "specificity": 0.9597826086956521,
+  "f1": 0.9244712990936556,
+  "true_negative": 1766.0,
+  "false_positive": 74.0,
+  "false_negative": 1.0,
+  "true_positive": 459.0
+}

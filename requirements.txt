@@ -1,0 +1,10 @@
+streamlit>=1.35
+opencv-contrib-python>=4.9
+mediapipe>=0.10.30
+pandas>=2.2
+scipy>=1.13
+plotly>=5.22
+matplotlib>=3.8
+reportlab>=4.2
+Pillow>=10.0
+pytest>=8.0

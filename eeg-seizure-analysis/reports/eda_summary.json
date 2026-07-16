@@ -1,0 +1,12 @@
+{
+  "n_segments": 11500,
+  "n_parent_recordings": 500,
+  "n_signal_points": 178,
+  "n_classes": 5,
+  "n_seizure_segments": 2300,
+  "seizure_prevalence": 0.2,
+  "missing_values": 0,
+  "duplicate_signals": 0,
+  "pc1_explained_variance": 0.43444645031602147,
+  "pc2_explained_variance": 0.1744710806268959
+}

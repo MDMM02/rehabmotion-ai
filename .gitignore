@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+tmp/
+.venv/
+venv/
+.streamlit/secrets.toml
+data/outputs/*
+!data/outputs/.gitkeep
+data/models/*.task
+data/models/*.download
+*.mp4
+!docs/assets/*.mp4
+*.mov
+*.avi
